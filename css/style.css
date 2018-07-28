@@ -1,0 +1,41 @@
+/* general structure */
+.container {
+  display: flex;
+  width: 100%;
+  color: rgb(0, 100, 0);
+  background-color: rgb(153, 255, 153);
+}
+
+.english {
+  width: 40%;
+}
+
+.middle {
+  width: 20%;
+  text-align: center;
+}
+
+.german {
+  width: 40%;
+  font-style: italic;
+}
+
+
+/* content styles */
+h1 {
+  font-weight: bold;
+}
+
+h2 {
+  font-weight: bold;
+  padding: 16px 30px;
+}
+
+h3 {
+  font-style: italic;
+  padding: 12px 30px;
+}
+
+p {
+  padding: 5px 20px;
+}
