@@ -32,6 +32,7 @@ html {
 h1 {
   font-size: 2rem;
   font-weight: bold;
+  color: rgb(204, 138, 116);
 }
 
 h2 {
@@ -61,7 +62,7 @@ p {
 }
 
 a {
-  color: inherit;
+  color: rgb(204, 138, 116);
 }
 
 ul {
